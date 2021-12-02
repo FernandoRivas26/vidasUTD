@@ -262,7 +262,7 @@ export default function Reportes() {
           </Col>
           <Col span={9}>
             <Typography.Title level={4} style={titleStyle}>
-              Estudiantes PreFonadores
+              Estudiantes Pre-Donadores
             </Typography.Title>
             <div  >
               <Bar
@@ -285,7 +285,7 @@ export default function Reportes() {
             </div>
           </Col>
           <Col span={9}>
-          <Typography.Title level={4} style={titleStyle}>
+            <Typography.Title level={4} style={titleStyle}>
               Universidades donadores
             </Typography.Title>
             <div  >
@@ -308,7 +308,7 @@ export default function Reportes() {
               />
             </div>
           </Col>
-          </Row>
+        </Row>
       </div>,
     </>
   );
